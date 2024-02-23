@@ -1,4 +1,4 @@
-const About = require("../models/About");
+const About = require("../models/aboutModels");
 
 const getAllAbout = async (req, res) => {
   try {

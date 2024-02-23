@@ -1,4 +1,4 @@
-const LogIn = require("../models/LogIn");
+const LogIn = require("../models/loginModels");
 
 const getAllLogIn = async (req, res) => {
   try {

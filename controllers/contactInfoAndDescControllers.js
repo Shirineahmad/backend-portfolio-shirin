@@ -1,4 +1,4 @@
-const ContactInfoAndDesc = require("../models/ContactInfoAndDesc");
+const ContactInfoAndDesc = require("../models/contactAndDescModels");
 
 const getAllContactInfoAndDesc = async (req, res) => {
   try {
